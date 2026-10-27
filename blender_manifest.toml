@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+
+id = "model_checkup_addon"
+version = "0.11.2"
+name = "Model Checkup 模型体检"
+tagline = "一键导入前检查：网格 / UV / 材质 / 变换 / 法线 / 骨骼"
+maintainer = "sjy"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+license = ["SPDX:MIT"]
